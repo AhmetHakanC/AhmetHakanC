@@ -10,13 +10,13 @@ I'm a software developer focused on building modern and efficient web and mobile
 const me = {
   education: "BSc in Computer Technology and Information Systems - Bartın University",
   interests: ["Web Development", "Mobile Development", "Clean Architecture", "UI/UX"],
-  currentlyLearning: ["Advanced React Patterns", "RESTful APIs with Laravel", "Mobile Animations"],
   lookingFor: ["Frontend Developer", "Mobile Developer", "Full-stack Developer"]
 };
 ```
 ---
 
 ### 🔧 Tech Stack & Tools
+```ts
 {
   "frontend": ["React.js", "Tailwind CSS", "HTML", "CSS"],
   "mobile": ["React Native"],
@@ -25,7 +25,7 @@ const me = {
   "database": ["MySQL", "SQLite"],
   "tools": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
 }
-
+```
 ### 📫 Connect with Me
 Email: a.hakan.cansizz@gmail.com
 LinkedIn: linkedin.com/in/ahmethakancansiz
