@@ -8,7 +8,6 @@ I'm a software developer focused on building modern and efficient web and mobile
 
 ```ts
 const me = {
-  education: "BSc in Computer Technology and Information Systems - Bartın University",
   interests: ["Web Development", "Mobile Development", "Clean Architecture", "UI/UX"],
   lookingFor: ["Frontend Developer", "Mobile Developer", "Full-stack Developer"]
 };
@@ -20,10 +19,8 @@ const me = {
 {
   "frontend": ["React.js", "Tailwind CSS", "HTML", "CSS"],
   "mobile": ["React Native"],
-  "backend": ["Laravel", "PHP", "REST API"],
+  "backend": ["Laravel", "PHP"],
   "languages": ["JavaScript", "Python", "C", "C#", "Java"],
-  "database": ["MySQL", "SQLite"],
-  "tools": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
 }
 ```
 ### 📫 Connect with Me
