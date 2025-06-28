@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ahmet Hakan CANSIZ
 
-<!--
-**AhmetHakanC/AhmetHakanC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on building modern and efficient web and mobile applications. I hold a degree in **Computer Technology and Information Systems** from Bartın University, with 4+ years of development experience using various technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+```ts
+const me = {
+  education: "BSc in Computer Technology and Information Systems - Bartın University",
+  interests: ["Web Development", "Mobile Development", "Clean Architecture", "UI/UX"],
+  currentlyLearning: ["Advanced React Patterns", "RESTful APIs with Laravel", "Mobile Animations"],
+  lookingFor: ["Frontend Developer", "Mobile Developer", "Full-stack Developer"]
+};
+```
+---
+
+### 🔧 Tech Stack & Tools
+{
+  "frontend": ["React.js", "Tailwind CSS", "HTML", "CSS"],
+  "mobile": ["React Native"],
+  "backend": ["Laravel", "PHP", "REST API"],
+  "languages": ["JavaScript", "Python", "C", "C#", "Java"],
+  "database": ["MySQL", "SQLite"],
+  "tools": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
+}
+
+### 📫 Connect with Me
+Email: a.hakan.cansizz@gmail.com
+LinkedIn: linkedin.com/in/ahmethakancansiz
